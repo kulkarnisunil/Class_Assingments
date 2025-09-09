@@ -1,0 +1,10 @@
+2025-09-09 15:57:16,711 - INFO - Application has started.
+2025-09-09 15:57:16,711 - ERROR - An error occurred: division by zero
+2025-09-09 15:57:16,712 - INFO - Application finished.
+2025-09-09 15:58:04,360 - INFO - This is an informational message.
+2025-09-09 15:58:04,360 - INFO - This is an informational message.
+2025-09-09 15:58:04,361 - ERROR - This is an error message.
+2025-09-09 15:58:04,361 - ERROR - This is an error message.
+2025-09-09 15:58:04,362 - ERROR - This is an error message.
+2025-09-09 15:58:04,362 - ERROR - This is an error message.
+2025-09-09 15:59:22,118 - ERROR - FileNotFoundError: [Errno 2] No such file or directory: 'error_log.txt'
